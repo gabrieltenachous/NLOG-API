@@ -2,3 +2,11 @@ C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\bin\Debug\ne
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

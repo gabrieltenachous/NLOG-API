@@ -152,6 +152,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\phoenix\\Desktop\\PROJETO\\MarcasVeiculosServer\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\phoenix\\Desktop\\PROJETO\\MarcasVeiculosServer\\Contracts\\Contracts.csproj"
+              },
               "C:\\Users\\phoenix\\Desktop\\PROJETO\\MarcasVeiculosServer\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "C:\\Users\\phoenix\\Desktop\\PROJETO\\MarcasVeiculosServer\\LoggerService\\LoggerService.csproj"
               }

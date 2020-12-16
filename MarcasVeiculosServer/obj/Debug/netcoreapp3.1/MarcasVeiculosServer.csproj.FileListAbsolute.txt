@@ -20,3 +20,9 @@ C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\obj\D
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\obj\Debug\netcoreapp3.1\MarcasVeiculosServer.genruntimeconfig.cache
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\Contracts.dll
 C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\phoenix\Desktop\PROJETO\MarcasVeiculosServer\MarcasVeiculosServer\obj\Debug\netcoreapp3.1\MarcasVeiculosServer.csproj.CopyComplete

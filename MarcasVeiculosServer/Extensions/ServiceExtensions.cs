@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using LoggerService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-
+using static Contracts.Contracts;
 namespace MarcasVeiculosServer.Extensions
 {
     public static class ServiceExtensions
@@ -27,7 +24,13 @@ namespace MarcasVeiculosServer.Extensions
             });
         }
 
+        public static void ConfigureLoggerService(this IServiceCollection services)
+        {
+            services.AddSingleton<ILoggerManager, LoggerManager>();
+        }
+
+
 
     }
-    
+
 }

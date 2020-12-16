@@ -3,27 +3,27 @@ using static Contracts.Contracts;
 using NLog;
 namespace LoggerService
 {
-    public class LoggerService : ILoggerManager
+    public class LoggerManager : ILoggerManager
     {
         private static ILogger logger = LogManager.GetCurrentClassLogger();
         public void LogDebug(string message)
         {
-            throw new NotImplementedException();
+            logger.Debug(message);
         }
 
         public void LogError(string message)
         {
-            throw new NotImplementedException();
+            logger.Error(message);
         }
 
         public void LogInfo(string message)
         {
-            throw new NotImplementedException();
+            logger.Info(message);
         }
 
         public void LogWarn(string message)
         {
-            throw new NotImplementedException();
+            logger.Warn(message);
         }
     }
 }
